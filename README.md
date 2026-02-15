@@ -1,4 +1,4 @@
-# 🏨 Node Hotel API
+# 🏨 Node.js Hotel API
 
 A simple backend API for hotel management built with Node.js and Express.
 
